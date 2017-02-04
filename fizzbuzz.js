@@ -37,3 +37,6 @@ var k = document.getElementById('result');
     function print(j){
       k.innerHTML += j + '<br>';
     }
+
+//run the fizzBuzz function
+fizzBuzz();
